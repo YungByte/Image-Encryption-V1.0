@@ -1,2 +1,2 @@
 # Image-Encryption-V1.0
-A novel algorithm for image and video encryption
+A novel algorithm for image and video encryption, implemented in C++
